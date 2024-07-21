@@ -8,13 +8,9 @@ This is a demo for the FastAPI as covered in W4S3
 
 - here my env name is **envStarType**
 
----
-
 **For Mac OS (if windows version doesn't work)**
 
 python3 -m venv envStarType
-
----
 
 **For windows**
 
