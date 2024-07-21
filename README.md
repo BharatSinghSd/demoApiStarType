@@ -10,11 +10,11 @@ This is a demo for the FastAPI as covered in W4S3
 
 **For Mac OS (if windows version doesn't work)**
 
-python3 -m venv envStarType
+- python3 -m venv envStarType
 
 **For windows**
 
-python -m venv envStarType
+- python -m venv envStarType
 
 ---
 
@@ -22,11 +22,11 @@ python -m venv envStarType
 
 **For Mac OS**
 
-source envStarType/bin/activate
+- source envStarType/bin/activate
 
 **For windows**
 
-python -m venv environment name
+- python -m venv environment name
 
 ---
 
