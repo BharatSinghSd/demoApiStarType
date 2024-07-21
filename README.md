@@ -25,3 +25,13 @@ source envStarType/bin/activate
 #### For windows
 
 python -m venv environment name
+
+## install the dependencies from the requirements file
+
+pip install -r requirements.txt
+
+(install them while in the desired env)
+
+## running the api using uvicorn server:
+
+uvicorn main:app
