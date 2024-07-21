@@ -6,24 +6,20 @@ This is a demo for the FastAPI as covered in W4S3
 
 ### setup a virtual environment
 
-here my env name is envStarType
+here my env name is **envStarType**
 
-#### For Mac OS (if windows version doesn't work)
-
+**For Mac OS (if windows version doesn't work)**
 python3 -m venv envStarType
 
-#### For windows
-
+**For windows**
 python -m venv envStarType
 
-### activate the V environment
+**activate the V environment**
 
-#### For Mac OS (if windows version doesn't work)
-
+**For Mac OS**
 source envStarType/bin/activate
 
-#### For windows
-
+**For windows**
 python -m venv environment name
 
 ## install the dependencies from the requirements file
